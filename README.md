@@ -62,7 +62,7 @@ Me chamo Ian Cândido Baptista, tenho 31 anos e sou natural do Rio de Janeiro. A
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanBaptista&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanBaptista&theme=tokyonight&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
