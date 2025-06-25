@@ -5,13 +5,20 @@
 Me chamo Ian Cândido Baptista, tenho 31 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação pela Estácio. Também sou professor de inglês e teoria musical há mais de 10 anos.
 
 <p align="left">
-        <p align="left">
     <a href="https://www.linkedin.com/in/ian-baptista-053304239/">
         <img 
             alt="linkedin" 
             title="linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
+       
+<a href="https://t.me/ianbaptista">
+        <img 
+            alt="telegram" 
+            title="telegram" 
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+
+            
 
 ---
 
