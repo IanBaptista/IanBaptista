@@ -1,6 +1,6 @@
 #  Ian baptista
 
-**`Desenvolvedor Backend | Scrum master`**
+**`Backend Developer | Scrum master`**
 
 My name is Ian Cândido Baptista, I am 31 years old, and I was born in Rio de Janeiro. I am currently pursuing a degree in Computer Science at Estácio University, with a focus on Java and related technologies. I am also an English and music theory teacher, with over ten years of experience in the field.
 
