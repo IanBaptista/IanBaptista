@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend | Scrum master`**
 
-Me chamo Ian Cândido Baptista, tenho 31 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação pela Estácio. Também sou professor de inglês e teoria musical há mais de 10 anos.
+My name is Ian Cândido Baptista, I am 31 years old, and I was born in Rio de Janeiro. I am currently pursuing a degree in Computer Science at Estácio University, with a focus on Java and related technologies. I am also an English and music theory teacher, with over ten years of experience in the field.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ian-baptista-053304239/">
