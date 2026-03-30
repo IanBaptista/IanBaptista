@@ -1,0 +1,29 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Cron Job: Executa a cada 24 horas (Meia-noite UTC)
+  workflow_dispatch: # Permite o Trigger manual na aba "Actions"
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: IanBaptista
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          # Configurações do plugin de linguagens (Top Languages)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          # Configurações visuais (Dark Mode)
+          config_padding: 0, 8 + 8%
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update metrics [skip ci]"
