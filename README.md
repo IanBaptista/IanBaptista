@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Ian Baptista</h1>
-  <p><b>Tech Enthusiast | Former Developer | Coding for Fun</b></p>
+  <p><b>Building tools, side projects, and exploring AI.</b></p>
   
   <p>
-    I'm a 32-year-old tech enthusiast from Rio de Janeiro. With a background in software development, I've transitioned my career focus, but I still code for fun. Nowadays, my GitHub is a sandbox for side projects, automation tools, and exploring new technologies.
+    Hey, I'm Ian. I spent some time in the corporate IT world as a Scrum Master and consultant, but nowadays my focus is on video editing, motion design, and AI. I'm currently studying Computer Science, and this GitHub is simply my sandbox for side projects—like browser extensions, automation tools, and things I build to solve my own problems.
   </p>
 
   <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
@@ -16,7 +16,7 @@
 
 <br>
 
-### Tools
+### 🛠️ Tech Stack & Tools
 
 **Core Stack:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,4 +34,5 @@
 
 <br>
 
+### 📊 Most Used Languages
 ![Estatísticas do GitHub](github-metrics.svg)
