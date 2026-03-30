@@ -27,6 +27,5 @@ I'm Ian Cândido Baptista, 32 years old, born and raised in Rio de Janeiro. I am
 
 ### Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanBaptista&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&cache_seconds=86400&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IanBaptista&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&cache_seconds=86400&v=1)
+![Estatísticas do GitHub](github-metrics.svg)
 </div>
