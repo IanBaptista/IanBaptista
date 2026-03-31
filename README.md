@@ -6,11 +6,13 @@
     Hey, I'm Ian. I spent some time in the corporate IT world as a Scrum Master and consultant, but nowadays my focus is on video editing, motion design, and AI. I'm currently studying Computer Science, and this GitHub is simply my sandbox for side projects—like browser extensions, automation tools, and things I build to solve my own problems.
   </p>
 
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ <a href="https://www.linkedin.com/in/ianbaptist4/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   </a>
-  <a href="SEU_LINK_DO_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+<a href="https://t.me/ianbaptista" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
   </a>
 </div>
 
