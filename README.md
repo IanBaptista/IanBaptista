@@ -34,5 +34,5 @@
 
 <br>
 
-### 📊 Most Used Languages
+
 ![Estatísticas do GitHub](github-metrics.svg)
